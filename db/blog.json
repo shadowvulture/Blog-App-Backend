@@ -1,3 +1,4 @@
+[
 {
     "author" : "Derek",
     "title": "First Blog",
@@ -6,4 +7,13 @@
     "category": "None",
     "published": "6-8-2019"
 
+},
+{
+    "author" : "Derek",
+    "title": "Second Blog",
+    "urlToImage": "https://www.sandypines.com/wp-content/uploads/Fireworks-1-1200x801.jpg",
+    "content": "In a stunning turn of events, I was able to get this working.",
+    "category": "None",
+    "published": "6-8-2019"
 }
+]
