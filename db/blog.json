@@ -1,7 +1,7 @@
 [
 {
     "author" : "Derek",
-    "title": "First Blog",
+    "title": "Learning to Code is Difficult",
     "urlToImage": "https://makeawebsitehub.com/wp-content/uploads/2016/02/learn-code-e1455713167295.jpg",
     "content": "In a stunning turn of events, I was able to get this working.",
     "category": "None",
@@ -10,19 +10,19 @@
 },
 {
     "author" : "Derek",
-    "title": "Second Blog",
+    "title": "Fireworks in D.C. Ahead of July 4th Fireworks",
     "urlToImage": "https://www.sandypines.com/wp-content/uploads/Fireworks-1-1200x801.jpg",
     "content": "Fireworks were set off in Washington D.C. on Monday as President Trump tweeted that he would ban avocado toast in what many critics are calling a step too far.",
     "category": "None",
-    "published": "6-8-2019"
+    "published": "6-9-2019"
 },
 {
     "author" : "Derek",
-    "title": "Third Blog",
+    "title": "Why You Should Learn To Code",
     "urlToImage": "https://www.elegantthemes.com/blog/wp-content/uploads/2018/12/top11.png",
     "content": "Coding is a difficult and rewarding career path.",
     "category": "None",
-    "published": "6-8-2019"
+    "published": "6-10-2019"
 }
 
 ]
