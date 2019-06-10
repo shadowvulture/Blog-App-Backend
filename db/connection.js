@@ -1,12 +1,13 @@
 const mongoose = require('mongoose');
+const express = require( 'express' )
+const app = express()
 
-if (process.env.NODE_ENV == 'production') {
-  mongoose.connect(process.env.DB_URL, { useMongoClient: true });
-} else {
-  mongoose.connect('mongodb://localhost/blog', {
-    useMongoClient: true
-  });
-}
+ let mongoURI = ""
+ if (process.env.NODE_ENV === "production") {
+	mongoURI = process.env.DB_URL;
+  } else {
+	mongoURI = "mongodb://localhost/blog";
+  }
 
 mongoose.Promise = Promise;
 
