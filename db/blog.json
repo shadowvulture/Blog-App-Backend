@@ -1,6 +1,7 @@
 [
 {
     "author" : "Derek",
+    "authorImg": "https://ibb.co/QCyChbB",
     "title": "Learning to Code is Fun!",
     "urlToImage": "https://makeawebsitehub.com/wp-content/uploads/2016/02/learn-code-e1455713167295.jpg",
     "content": "In a stunning turn of events, I was able to get this working. \n This is the start of a new paragraph. ",
@@ -10,6 +11,7 @@
 },
 {
     "author" : "Derek",
+    "authorImg": "https://ibb.co/QCyChbB",
     "title": "Fireworks in D.C. Ahead of July 4th Fireworks",
     "urlToImage": "https://www.sandypines.com/wp-content/uploads/Fireworks-1-1200x801.jpg",
     "content": "Fireworks were set off in Washington D.C. on Monday as President Trump tweeted that he would ban electric scooters, smiley emojis, and happiness, in what many critics are calling a step too far.",
@@ -18,6 +20,7 @@
 },
 {
     "author" : "Derek",
+    "authorImg": "https://ibb.co/QCyChbB",
     "title": "Why You Should Learn To Code",
     "urlToImage": "https://www.elegantthemes.com/blog/wp-content/uploads/2018/12/top11.png",
     "content": "Coding is a difficult and rewarding career path.",
@@ -26,10 +29,20 @@
 },
 {
     "author" : "Derek",
+    "authorImg": "https://ibb.co/QCyChbB",
     "title": "'COEXIST' Bumper Sticker Stops Suicide Bombing In Kabul",
     "urlToImage": "https://eaglewit.files.wordpress.com/2019/03/coexist.jpg",
     "content": "KABUL, AFGHANISTAN — On Friday morning, a suicide bombing attempt was stopped dead in its tracks by a \\“COEXIST\\” bumper sticker in streets of the capital city of Afghanistan.  A parked car sporting the trendy decal was seen by an ISIS fighter who caught a glimpse, ultimately reconsidering his behavior. \n \n Abdul Muhsin, a 10-year terrorist veteran, was seen quietly removing his suicide vest outside of the U.S. embassy after spotting the car.   Abdul waited for twenty minutes at the scene to thank the owner of the car for changing his life. \n \n  Abdul later invited the owner of the car, Muhammad Shaheed, to join him for an iced latte to discuss how diplomacy can be used to bring people together. \n \n \\”I was going down a dark path.  Now that I look back at it, I cant believe what a monster I had become,\\” said Abdul of the reformation. \n \n In light of the event, security forces outside of the U.S. Embassy in Kabul have ramped up security measures by ordering thousands of coexist bumper stickers today.  The hope is that the stickers will continue to deter violence, acting as yet another layer of security in the war torn nation. \n \n US Army Col. James Hoover said, \\”we hope to saturate the streets of Kabul with these bumper stickers.  Ultimately, we need to have one on every car if we hope to keep this violence at bay.  Deterrence is half the battle.\\”",
     "category": "Military",
+    "published": "6-11-2019"
+},
+{
+    "author" : "Zach",
+    "authorImg": "https://ibb.co/VQckdbW",
+    "title": "Software Engineering Immersive: The Great Balancing Act",
+    "urlToImage": "https://cdn-images-1.medium.com/max/1600/1*fkyEgZnbf3jJP3-G7xykLg.jpeg",
+    "content": "You can learn a lot about yourself when you spend your time dedicated to a singular cause. After having just finished my fifth week of a 12-week software engineering immersive course, I can confidently say that I like who I am today more than I did before stepping in the door five weeks ago. The students in my cohort come from a variety of backgrounds with different stories to tell. Our common bond comes through varying degrees of dissatisfaction for our previous work encounters combined with an urge to master material that we can truly put our name and passion behind. Software engineering, or programming in general, is not a field meant for every type of mindset. However, during my experience, I have found that even the toughest days are more enjoyable than other types of work. The \\“flow\\” losing track of time due to intense focus that I have experienced rivals few other things that I have experienced. Even during times that I cannot figure out a certain bug in my code, the feeling is less of frustration than it is of embracing a challenge that has not been solved yet. \n \n I think that it is unrealistic to be asked to shut down your entire social network during this 12-week period, and I think that even people who tell you to or claim that they have themselves while taking the course are not telling the truth. Nevertheless, certain adjustments have to be made, and for me that has been trimming around the edges. For someone who strives to jump into the tech field, I have substantially cut down on my screen usages, going through specific measures to ensure that my distractions are kept to a minimum. I have turned off all of the notifications on my phone, delete many distracting apps, hid toolbars on the computer, and took other measures in order to keep my mind focused on the task at hand, rather than having my subconscious take the best of my attention. While I am still thinking of measures to take in order to narrow my focus, I have found that specific changes are much more effective than simply telling yourself to do something different. \n \n Feeling good and being excited about the material to come is most of the battle, and for the most part they both work hand in hand. Making sure that I am properly nourished, caught up on sleep, and in a general good state of mind are all crucial toward being excited about the material, or at least putting myself in the best position to do well. While they are normal reactions for all humans to have, negativeness, complaining, and deflecting problems off oneself all fall short of accomplishing any goal currently at hand. \n \n While we are certainly embarking part of the most challenging material of the class to date, it is crucial to stay positive, stay active, and take the small wins when they come. For me, I sometimes put myself in a questioning mindset of why I am not picking up on certain subjects more easily. However, learning four year’s worth of software engineering in 12 weeks is a daunting task no matter who decided to pick up the class, and giving yourself a break is one of the easiest fixes. \n \n I am excited to finish the second half of this class with the same amount of intensity that it began with. I truly feel that the class is a no-judgment zone, where people are not afraid to admit that they have not grasped a particular subject, making it that much easier to receive help where it is needed. It is an amazing feeling to know that I have learned something new and am getting smarter every day, something that cannot be said when in the wrong type of environment.",
+    "category": "Coding",
     "published": "6-11-2019"
 }
 
